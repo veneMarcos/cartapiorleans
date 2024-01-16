@@ -12,7 +12,7 @@
     <PackageReference Include="Microsoft.Orleans.Persistence.AdoNet" Version="3.2.1" />
     <PackageReference Include="Microsoft.Orleans.Server" Version="3.2.1" />
     <PackageReference Include="OrleansDashboard" Version="3.1.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GrainInterfaces\GrainInterfaces.csproj" />
